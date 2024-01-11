@@ -1,3 +1,10 @@
+/*
+Crea una clase coche que tenga como atributos marca, modelo, caballos, precio y matrícula
+Crea una clase concesionario que tenga como atributos nombre, ciudad telefono y una colección de coches para vender
+Esta colección será primero un HashSet y luego la modificamos a un TreeSet, implementando los métodos e interfaces que
+vayan siendo necesarios (mostrar equals y la necesidad de que hashCode() sea coherente para que nos funcione
+Para el orden de TreeSet implementar comparable y su compareTo. Si se quiere seguir con comparator...
+ */
 public class Main {
 
     public static void main(String[] args) {
